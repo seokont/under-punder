@@ -1,0 +1,9 @@
+{
+    "db": "mydatabase",
+    "user": "root",
+    "password": "Maqim1981!",
+    "connection": {
+        "host": "localhost",
+        "port": 3306
+    }
+}
